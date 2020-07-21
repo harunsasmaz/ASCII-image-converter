@@ -20,6 +20,7 @@ For example:
 
 > make run_woman
 
+Before|After
 |---|---|
 ![bmp](in/woman.bmp) | ![png](assets/woman.png)
 
