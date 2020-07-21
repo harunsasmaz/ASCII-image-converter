@@ -29,3 +29,5 @@ But this donut rotates around x, y and z axes.
 Please run and enjoy!
 
 > make run_bonus
+
+![video](assets/donut.gif)
