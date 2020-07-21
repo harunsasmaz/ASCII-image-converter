@@ -20,14 +20,8 @@ For example:
 
 > make run_woman
 
-<table border="0">
-    <tr>
-        <td>![bmp](in/woman.bmp)</td>
-    </tr>
-    <tr>
-        <td>![txt](assets/woman.png)</td>
-    </tr>
-</table>
+|---|---|
+![bmp](in/woman.bmp) | ![png](assets/woman.png)
 
 ## Bonus
 
