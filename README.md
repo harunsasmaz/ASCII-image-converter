@@ -16,7 +16,7 @@ Convert BMP images to TXT images by using ASCII art.
 
 > make run_<code>image</code>
 
-For example:
+<h3> Example: </h3>
 
 > make run_woman
 
