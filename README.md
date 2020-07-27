@@ -16,6 +16,10 @@ Convert BMP images to TXT images by using ASCII art.
 
 > make run_<code>image</code>
 
+or
+
+> 	./ascii <input file> M N > <output file> // M and N are the dimensions of each pixel
+
 <h3> Example: </h3>
 
 > make run_woman
