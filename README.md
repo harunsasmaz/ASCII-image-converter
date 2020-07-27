@@ -18,7 +18,7 @@ Convert BMP images to TXT images by using ASCII art.
 
 or
 
-> 	./ascii <input file> M N > <output file> // M and N are the dimensions of each pixel
+> 	./ascii "input file" M N > "output file" // M and N are the dimensions of each pixel
 
 <h3> Example: </h3>
 
